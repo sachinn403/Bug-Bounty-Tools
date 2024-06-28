@@ -1,4 +1,4 @@
-**Awesome Port Scanning Tools**
+# Awesome Port Scanning Tools
 
 - **masscan** - TCP port scanner, spews SYN packets asynchronously, scanning the entire Internet in under 5 minutes.
   - [GitHub](https://github.com/robertdavidgraham/masscan)
