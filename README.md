@@ -1,4 +1,4 @@
-**Awesome Bug Bounty Tools**
+# Awesome Bug Bounty Tools
 
 - **Recon**
   - [Subdomain Enumeration](#)
