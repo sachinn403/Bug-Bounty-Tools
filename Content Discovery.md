@@ -1,4 +1,4 @@
-**Web Path and Content Discovery Tools**
+# Web Path and Content Discovery Tools
 
 - **gobuster** - Directory/File, DNS, and VHost busting tool written in Go.
   - [GitHub](https://github.com/OJ/gobuster)
