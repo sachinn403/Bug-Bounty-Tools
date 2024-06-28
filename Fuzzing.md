@@ -1,4 +1,4 @@
-**Web Application Fuzzing Tools**
+# Web Application Fuzzing Tools
 
 - **wfuzz** - Web application fuzzer.
   - [GitHub](https://github.com/xmendez/wfuzz)
