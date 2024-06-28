@@ -1,4 +1,4 @@
-**Subdomain Enumeration**
+# Subdomain Enumeration
 
 - **Sublist3r** - Fast subdomains enumeration tool for penetration testers
   - [GitHub](https://github.com/aboul3la/Sublist3r)
