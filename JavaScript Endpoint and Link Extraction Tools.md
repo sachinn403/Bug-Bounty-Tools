@@ -1,4 +1,4 @@
-**JavaScript Endpoint and Link Extraction Tools**
+# JavaScript Endpoint and Link Extraction Tools
 
 - **LinkFinder** - A Python script that finds endpoints in JavaScript files.
   - [GitHub](https://github.com/GerbenJavado/LinkFinder)
