@@ -1,4 +1,4 @@
-**HTTP Parameter Discovery Tools**
+# HTTP Parameter Discovery Tools
 
 - **parameth** - Tool for brute discovering GET and POST parameters.
   - [GitHub](https://github.com/maK-/parameth)
