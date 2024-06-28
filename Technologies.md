@@ -1,4 +1,4 @@
-**Website Technology Identification and Scanning Tools**
+# Website Technology Identification and Scanning Tools
 
 - **wappalyzer** - Identify technology on websites.
   - [GitHub](https://github.com/AliasIO/wappalyzer)
